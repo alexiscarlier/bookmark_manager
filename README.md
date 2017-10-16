@@ -1,7 +1,7 @@
 <h1> READ ME </h1>
 
-<p> 1. As a user, 
-So that I can see a list of links, /n
+<p> 1. As a user,
+So that I can see a list of links,
 I want to display them on a browser. </p>
 
 
